@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on QA projects, manual testing for now, and improving software quality.
 - 📫 How to reach me [Catalina Ion](https://www.linkedin.com/in/catalina-ion-3b62a61a9/)
 - 😄 Pronouns: no
-- ⚡ Fun fact: I love solving puzzles 
+- ⚡ Fun fact: I love solving puzzles which is why I enjoy finding bugs
 
 <!---
 Catalinay/Catalinay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
